@@ -1,0 +1,3 @@
+#Understanding Bootstrap
+
+As a complete beginner to Bootsrap, I thought it would be a good idea to type the code to an already made site. I found a video on youtube by Traversy Media: [Bootstrap 5 Crash Course - Website Build & Deploy](https://www.youtube.com/watch?v=4sosXZsdy-s&t=213s) As I typed it up, I started getting familiar with the main classes and he also showed how you can copy and paste snippets and search for specific things on the Bootstrap site. I think this was a good first step in using this method of building site, and I now understand what it is and how it works and would be able to build a simple site using Bootstrap 5.
